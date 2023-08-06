@@ -1,0 +1,8 @@
+C:\Users\FERNAN!\Desktop\HiPre\SobrangHirap\SobrangHirap\bin\Debug\SobrangHirap.exe.config
+C:\Users\FERNAN!\Desktop\HiPre\SobrangHirap\SobrangHirap\bin\Debug\SobrangHirap.exe
+C:\Users\FERNAN!\Desktop\HiPre\SobrangHirap\SobrangHirap\bin\Debug\SobrangHirap.pdb
+C:\Users\FERNAN!\Desktop\HiPre\SobrangHirap\SobrangHirap\obj\Debug\SobrangHirap.csproj.AssemblyReference.cache
+C:\Users\FERNAN!\Desktop\HiPre\SobrangHirap\SobrangHirap\obj\Debug\SobrangHirap.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERNAN!\Desktop\HiPre\SobrangHirap\SobrangHirap\obj\Debug\SobrangHirap.csproj.CoreCompileInputs.cache
+C:\Users\FERNAN!\Desktop\HiPre\SobrangHirap\SobrangHirap\obj\Debug\SobrangHirap.exe
+C:\Users\FERNAN!\Desktop\HiPre\SobrangHirap\SobrangHirap\obj\Debug\SobrangHirap.pdb
